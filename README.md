@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LeonMT1 i am a german Python Discord Bot Coder
+- 👀 I’m interested in games and programming 
+- 🌱 I’m currently learning python 
+- 📫 How to reach me : Discord: LeonMT1#6088
