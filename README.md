@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeonMT1 i am a german Python Discord Bot Coder (i am bot so good)
+- 👋 Hi, I’m @LeonMT1 i am a german Python Discord Bot Coder (i am not so good)
 - 👀 I’m interested in games and programming 
 - 🌱 I’m currently learning python 
 - 📫 How to reach me : Discord: LeonMT1#6088
