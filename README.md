@@ -3,7 +3,8 @@
 
   Hello i am Leon ;)
   
-  i am coding Discord Bots in PyCord.
+  i am coding Discord Bots in PyCord. And some other random Stuff primarily in Python <3
+  Also i am enyoing playing with Linux
   
   [![Discord](https://img.shields.io/discord/724602228505313311?style=for-the-badge&logo=discord&logoColor=white&label=Discord%20Server&labelColor=black&color=white&link=https%3A%2F%2Fdiscord.gg%2FyA3Uqqjw8b)](https://discord.gg/yA3Uqqjw8b)
 </p>
