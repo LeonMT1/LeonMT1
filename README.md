@@ -1,6 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.discordapp.net/attachments/825340653378338837/963556131551191070/ezgif-1-9da174320c.gif?width=660&height=297" width="175"/>
-
   Hello i am Leon ;)
   
   i am coding Discord Bots in PyCord. And some other random Stuff primarily in Python <3 <br> Also i am enyoing playing with Linux
