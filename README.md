@@ -10,9 +10,6 @@
 ### Discord DM
 <p align="center"><a href="https://discord.gg/yA3Uqqjw8b"><img src="https://discord.c99.nl/widget/theme-4/945027825096884276.png"><p/>
 
-### My Discord Bot
-<p align="center"><a href="https://discord.gg/yA3Uqqjw8b"><img src="https://discord.c99.nl/widget/theme-1/1122756721039917066.png"><p/>
-
 ---
   
 ### Stats
