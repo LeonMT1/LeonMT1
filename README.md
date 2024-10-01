@@ -6,10 +6,6 @@
   [![Discord](https://img.shields.io/discord/724602228505313311?style=for-the-badge&logo=discord&logoColor=white&label=Discord%20Server&labelColor=black&color=white&link=https%3A%2F%2Fdiscord.gg%2FyA3Uqqjw8b)](https://discord.gg/yA3Uqqjw8b)
 </p>
 
-
-### Discord DM
-<p align="center"><a href="https://discord.gg/yA3Uqqjw8b"><img src="https://discord.c99.nl/widget/theme-4/945027825096884276.png"><p/>
-
 ---
   
 ### Stats
