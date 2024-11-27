@@ -14,9 +14,7 @@
     <a href="https://github.com/LeonMT1"><img alt="Leon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeonMT1&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
 <br/>
   &nbsp;
-  <p align="center">
-      <a href="https://github.com/LeonMT1"><img alt="Leon's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=LeonMT1&theme=ayu-mirage" height="192px"/></a>
-  </p>
+  <p align="center"></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmt1&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="leonmt1" /></p>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonmt1&theme=ayu-mirage" alt="leonmt1" /></a> </p>
 
