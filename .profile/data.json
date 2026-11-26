@@ -1,5 +1,5 @@
 {
- "key": "af0210bd",
+ "key": "a46a6501",
  "stars": 1,
  "contributions": 460,
  "repos": 9,
@@ -116,15 +116,19 @@
    {
     "c": 0,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 5,
+  "current": 0,
   "longest": 13
  },
  "pins": [],
